@@ -1,5 +1,5 @@
-# Mangrove trees on backreefs: familiar services in peculiar places
-### R code and data for the publication 'Mangrove trees on backreefs: familiar services in peculiar places' 
+# Individual mangrove trees provide alternative reef fish habitat on backreefs
+### R code and data for the publication 'Individual mangrove trees provide alternative reef fish habitat on backreefs' 
 
 ##### [add link once manuscript has been accepted for publication]
 ##### [add doi once manuscript has been accepted for publication]
