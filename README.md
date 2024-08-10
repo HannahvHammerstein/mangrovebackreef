@@ -4,7 +4,7 @@
 ##### Publication link: https://www.nature.com/articles/s41598-024-69524-y
 ##### DOI: 10.1038/s41598-024-69524-y
 
-##### Hannah von Hammerstein 1,2,3*, Theresa-Marie Fett 1,2, Sebastian CA Ferse 1,2,4,7 Véronique Helfer 2, Stuart Kininmonth 5,6, Sonia Bejarano 2 
+##### Hannah von Hammerstein <sup>1,2,3*</sup>, Theresa-Marie Fett 1,2, Sebastian CA Ferse 1,2,4,7 Véronique Helfer 2, Stuart Kininmonth 5,6, Sonia Bejarano 2 
 ###### 1 Faculty of Biology and Chemistry (FB2), University of Bremen, Bibliothekstraße 1, 28359 Bremen, Germany
 ###### 2 Leibniz Centre for Tropical Marine Research (ZMT), Fahrenheitstraße 6, 28359, Bremen, Germany
 ###### 3 Department of Geography & Environment, University of Hawai’i at Mānoa, Honolulu, 96822, Hawai’i, USA
