@@ -1,0 +1,16 @@
+Column1	Column3
+Metadata for abundance sheets	
+	
+LocationID	"Numeric dentifier for each set of natural tree, mimic, and control"
+Treatment	"a.natural.tree, b.control.plot or c.mimic"
+Label	"Site identifier combination consisting of LocationID, Treatment, and Size Category"
+SizeCat	"Site size category large, medium, or small"
+TreePerimeter	Tree perimeter measurement (m)
+Lat	Site latitude
+Long	Site longitude
+Aspect	Exposed (e) or sheltered (s) side of the sampling site
+Trees50	Number of trees within 50 m of site
+DistIsland	Distance to the nearest island (m)
+DistReef	Distance to the reef crest (m)
+WMI	Water motion index (from clod cards see Fett. et al 2021)
+Abundance	Total fish count at the site

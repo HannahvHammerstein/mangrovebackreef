@@ -1,0 +1,21 @@
+Metadata for shoaling sheets		
+		
+LocationID		Unique numerical dentifier for each set of natural tree and control (all size classes of a set combined)
+SiteID		Unique numerical identifier for each set of natural tree and control (split by size classes) 
+Treatment		a = natural tree; b = control plot
+Label		"Site identifier combination consisting of LocationID, Treatment, and Size Category"
+SizeCat		"Site size category large, medium, small, or control"
+TreePerimeter		Tree perimeter measurement (m); 'na' for control
+Lat		Site latitude
+Long		Site longitude
+Aspect		Exposed (e) or sheltered (s) side of the sampling site; 'na' for control
+DistIsland		Distance to the nearest island (m)
+DistReef		Distance to the reef crest (m)
+TreesWithin50		Number of trees within 50 m of site
+Timepoint		Sequential number of video timepoint
+GroupingProb		Grouping probability per timepoint
+Grouping		"Grouping observed per timepoint (y  = yes, n = no)"
+MedGroupProb		Median grouping probability for the site
+MaxGroupSize		Largest group size observed per timepoint
+TotalGroupingFish		Total number of grouping fish per timepoint
+Predominantspecies		Most frequently observed grouping species or genus per timepoint. 'nogroup' if no group was observed
